@@ -3,6 +3,14 @@ import { View, Text } from '@tarojs/components'
 import { AtButton } from 'taro-ui'
 
 export default class PersonalCenter extends Component {
+  componentWillMount(){}
+
+  componentDidMount(){}
+
+  componentDidShow(){}
+
+  componentDidHide(){}
+
   render() {
     return (
       <View>
