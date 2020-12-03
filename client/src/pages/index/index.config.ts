@@ -1,3 +1,3 @@
 export default {
-  navigationBarTitleText: 'Hello fang'
+  navigationBarTitleText: 'BFApp'
 }

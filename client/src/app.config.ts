@@ -5,8 +5,8 @@ export default {
   ],
   window: {
     backgroundTextStyle: 'light',
-    navigationBarBackgroundColor: '#fff',
-    navigationBarTitleText: 'WeChat',
+    navigationBarBackgroundColor: '#decb00',
+    navigationBarTitleText: 'BFApp',
     navigationBarTextStyle: 'black'
   },
   cloud: true,
